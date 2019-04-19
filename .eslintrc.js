@@ -24,7 +24,10 @@ module.exports = {
   ],
   'rules': {
     'react/display-name': 'off',
-    'react/prop-types': 'off'
+    'react/prop-types': 'off',
+    'generator-star-spacing': 'off',
+    'space-before-function-paren': 'off'
+
   },
   'globals': {
   '__DEV__': 'readonly',
